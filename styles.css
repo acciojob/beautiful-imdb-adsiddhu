@@ -3,10 +3,10 @@ div{
 	display:flex;
 	justify-content:space-around;
 }
-.moviepic{
+.moviePic{
 	width:250px;
 	height:250px;
-	opacity:1;
+	opacity: inherit;
 }
 p{
 	position:relative;
