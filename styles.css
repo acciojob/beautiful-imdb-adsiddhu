@@ -3,7 +3,7 @@ div{
 	display:flex;
 	justify-content:space-around;
 }
-img{
+.moviepic{
 	width:250px;
 	height:250px;
 	opacity:1;
